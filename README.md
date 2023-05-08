@@ -17,7 +17,7 @@ Project consists of removing the labels and special characters (periods and comm
 
 <p align="center">
 List files in directory: <br/>
-<img src="images/Clean1.png" width="80" >
+<img src="images/Clean1.png" width="80%" >
 <br />
 <br />
 <br/>
