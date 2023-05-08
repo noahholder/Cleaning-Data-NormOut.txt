@@ -20,28 +20,28 @@ List files in directory: <br/>
 <img src="images/Clean1.png" width="80%" >
 <br />
 <br />
-<br/>
-<img src="https://imgur.com/a/5zULa0M.png" height="80%" width="80%" alt="Clean Data Steps"/>
+Open file with elevated privileges: <br/>
+<img src="images/Clean2.png" width="80%" >
 <br />
 <br />
-<br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Clean Data Steps"/>
+Exit: <br/>
+<img src="images/Clean3.png" width="80%" >
 <br />
 <br />
-<br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Clean Data Steps"/>
+Execute the script: <br/>
+<img src="images/Clean4.png" width="80%" >
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Clean Data Steps"/>
+List files in directory and verify presence of Normal.txt: <br/>
+<img src="images/Clean5.png" width="80%" >
 <br />
 <br />
-<br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Clean Data Steps"/>
+View first 10 lines of file and verify there are no labels or punctuation marks: <br/>
+<img src="images/Clean6.png" width="80%" >
 <br />
 <br />
-<br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Clean Data Steps"/>
+Clear the terminal for next section: <br/>
+<img src="images/Clean7.png" width="80%" >
 </p>
 
 <!--
