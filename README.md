@@ -17,31 +17,31 @@ Project consists of removing the labels and special characters (periods and comm
 
 <p align="center">
 List files in directory: <br/>
-<img src="https://imgur.com/a/ySNCf3u" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/Clean1.png" width="80" >
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/5zULa0M.png" height="80%" width="80%" alt="Clean Data Steps"/>
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Clean Data Steps"/>
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Clean Data Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Clean Data Steps"/>
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Clean Data Steps"/>
 <br />
 <br />
 <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Clean Data Steps"/>
 </p>
 
 <!--
